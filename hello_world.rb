@@ -1,3 +1,2 @@
-``ruby
-puts "Hello World!"
-``ruby
+ruby puts "Hello World!"
+
